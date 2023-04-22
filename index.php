@@ -1,0 +1,1 @@
+<?php header( 'location: /tim.html' ); ?>
